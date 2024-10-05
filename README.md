@@ -2,7 +2,7 @@
 
 ## Skills & Experience
 
---ART SKILLS
+-- ### ART SKILLS
 - 3D Modelling
 - Texturing
 - Traditional and 3D Animation
@@ -11,13 +11,13 @@
 - Graphic Design
 
 
---AUDIO SKILLS
+-- ### AUDIO SKILLS
 - Sound Effect and Folly Creation
 - Music Production
 - DJ
 - Mixing
 
---TECHNICAL 
+-- ### TECHNICAL 
 - Welder
 - Drafter 
 - 3D Printing 
